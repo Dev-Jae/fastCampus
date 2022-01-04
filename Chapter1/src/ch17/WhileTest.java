@@ -25,6 +25,7 @@ public class WhileTest {
 		}
 		System.out.println(sum);
 		System.out.println(num);
+		
 	}
 
 }
